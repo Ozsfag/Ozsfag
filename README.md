@@ -54,5 +54,4 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ozsfag&theme=algolia&card_width=250)](https://git.io/streak-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ozsfag&theme=algolia)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ozsfag&theme=algolia&card_width=495)](https://git.io/streak-stats)
